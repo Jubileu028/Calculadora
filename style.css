@@ -2,7 +2,8 @@ body {
     background-color: #12022a;
 color: #fffbc0;
 text-align: center;
-
+text-decoration: underline #fffbc0; 
+ 
 h1 {font-family: 'Montserrat',monospace;
 
 }
