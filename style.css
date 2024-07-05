@@ -1,0 +1,32 @@
+body {
+    background-color: #12022a;
+color: #fffbc0;
+text-align: center;
+
+h1 {font-family: 'Montserrat',monospace;
+
+}
+
+}
+ 
+input {
+    background-color: #12022a;
+    border-color: #fffbc0;
+    color: #fffbc0;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #12022a;
+    border-color: #fffbc0;
+    color: #fffbc0;
+    border-radius: 5px;
+}
+
+h2 {
+    font-family: 'Montserrat',monospace;
+}
+
+p {
+    font-family: 'Poppins',monospace;
+}
